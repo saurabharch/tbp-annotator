@@ -13,7 +13,7 @@
     "es6-promise": "^3.0.2",
     "insert-css": "^0.2.0",
     "jquery": "^1.11.3",
-    "xpath-range": "0.0.5"
+    "xpath-range": "0.0.6"
   },
   "devDependencies": {
     "assertive-chai": "^1.0.0",
